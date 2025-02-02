@@ -1,0 +1,41 @@
+Sales Analysis - Coffee Shop Database
+
+Project Overview
+
+This project analyzes coffee shop sales, inventory, and staff data using SQL and Power BI. The dataset includes transactions, product categories, and sales trends. Power BI visualizations help identify top-selling items, revenue distribution, and peak sales periods.
+
+Key Insights:
+Total Sales for February 2024: 466 items sold, generating $1.86K in revenue.
+Top-Selling Item: Cold Mocha (47 units).
+Lowest-Selling Item: Sandwich Ham & Cheese (16 units).
+Peak Sales Day: Monday ($448.95).
+Lowest Sales Day: Wednesday ($242.30).
+
+Revenue Contribution:
+Hot Drinks: $1,081
+Cold Drinks: $582
+Snacks: $194
+
+Recommendations:
+Stock Optimization: Ensure higher availability of Cold Mocha and other popular items.
+Sales Boost on Low Days: Offer discounts or loyalty programs on Wednesdays and Thursdays.
+Hot Drink Promotions: Increase revenue by bundling hot drinks with snacks.
+Expand Snack Options: Introduce new snack varieties or combos to increase sales.
+Target High-Earning Days: Implement upselling strategies on Mondays.
+Monitor Underperforming Items: Adjust or replace low-selling items like Sandwich Ham & Cheese.
+
+Technologies Used:
+Database: SQL (queries for sales and inventory analysis)
+Data Visualization: Power BI (dashboards, charts, and KPIs)
+Reporting: Data insights and business recommendations
+
+Future Enhancements:
+Include customer demographics to analyze buying behavior.
+Integrate staff performance metrics to evaluate efficiency.
+Implement predictive analytics for inventory forecasting.
+This project provides valuable insights into coffee shop operations, helping optimize inventory and sales strategies.
+
+               
+Daniel Vidal Roman
+02/2025
+SQL Server, Power BI
